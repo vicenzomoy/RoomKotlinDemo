@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320509166690",
+    "project_id": "uphmobile-bf89e",
+    "storage_bucket": "uphmobile-bf89e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320509166690:android:cd9cbfb4768cca8e02fd3b",
+        "android_client_info": {
+          "package_name": "edu.uph.m24si2.roomkotlindemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrNvE60K-Hky-WxwDbL4EGRD6lWwVyo-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
